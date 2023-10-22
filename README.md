@@ -1,2 +1,2 @@
 # PythonPractice
-python勉強した時の雑なメモ
+python勉強した時の雑なメモを残します. 
